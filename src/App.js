@@ -39,7 +39,14 @@ function App() {
     <div className="App">
       <h1>Search an image!</h1>
       <p>
-        made by <a href="https://github.com/Hoffmannn">Lucas Hoffmann</a>
+        made by{" "}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://github.com/Hoffmannn/imagesearch"
+        >
+          Lucas Hoffmann
+        </a>
       </p>
       <Container>
         <Form>
