@@ -1,3 +1,5 @@
-# Basic image search engine
+# Buscador de imagens React
 
-[Test it here](https://luhoff-imagesearch.netlify.app/) 
+Projeto feito pare testar conhecimentos em consumo de APIs e React.js
+
+[Teste aqui](https://luhoff-imagesearch.netlify.app/) 
